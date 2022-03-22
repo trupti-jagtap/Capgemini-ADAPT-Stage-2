@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//,Manager class
+//Manager class
 class Manager{
     public Manager()
     {
